@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\bin\Debug\net5.0\LocationObserver.deps.json
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\bin\Debug\net5.0\LocationObserver.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\bin\Debug\net5.0\ref\LocationObserver.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\bin\Debug\net5.0\LocationObserver.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\ref\LocationObserver.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.pdb

@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\bin\Debug\net5.0\abstractFactory.deps.json
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\bin\Debug\net5.0\abstractFactory.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\bin\Debug\net5.0\ref\abstractFactory.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\bin\Debug\net5.0\abstractFactory.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\ref\abstractFactory.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.pdb

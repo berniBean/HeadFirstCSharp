@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\bin\Debug\net5.0\ObserverNet.deps.json
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\bin\Debug\net5.0\ObserverNet.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\bin\Debug\net5.0\ref\ObserverNet.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\bin\Debug\net5.0\ObserverNet.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ref\ObserverNet.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\ObserverNet\obj\Debug\net5.0\ObserverNet.pdb

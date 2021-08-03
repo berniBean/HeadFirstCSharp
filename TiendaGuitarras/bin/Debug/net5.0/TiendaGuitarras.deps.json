@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TiendaGuitarras/1.0.0": {
+        "dependencies": {
+          "DecoratorPattern": "1.0.0",
+          "Guitarras": "1.0.0",
+          "LocationObserver": "1.0.0",
+          "ObserverNet": "1.0.0",
+          "abstractFactory": "1.0.0"
+        },
+        "runtime": {
+          "TiendaGuitarras.dll": {}
+        }
+      },
+      "abstractFactory/1.0.0": {
+        "runtime": {
+          "abstractFactory.dll": {}
+        }
+      },
+      "DecoratorPattern/1.0.0": {
+        "runtime": {
+          "DecoratorPattern.dll": {}
+        }
+      },
+      "Guitarras/1.0.0": {
+        "runtime": {
+          "Guitarras.dll": {}
+        }
+      },
+      "LocationObserver/1.0.0": {
+        "runtime": {
+          "LocationObserver.dll": {}
+        }
+      },
+      "ObserverNet/1.0.0": {
+        "runtime": {
+          "ObserverNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiendaGuitarras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "abstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guitarras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LocationObserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObserverNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

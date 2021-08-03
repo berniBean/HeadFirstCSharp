@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\bin\Debug\net5.0\patronObservador.deps.json
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\bin\Debug\net5.0\patronObservador.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\bin\Debug\net5.0\ref\patronObservador.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\bin\Debug\net5.0\patronObservador.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\ref\patronObservador.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\patronObservador\obj\Debug\net5.0\patronObservador.pdb
