@@ -20,23 +20,42 @@ namespace TiendaGuitarras
         
         static void Main(string[] args)
         {
+
+            RemoteControl remoteC = new RemoteControl();
+            Light livingRoomLight = new Light("Living Room");
+            Light kitchenLight = new Light("Kitchen");
+
+            LightOnCommand livingOn = new LightOnCommand(livingRoomLight);
+            LightOffCommand livingOff = new LightOffCommand(livingRoomLight);
+
+            LightOnCommand kitchenOn = new LightOnCommand(kitchenLight);
+            LightOffCommand kitchenOff = new LightOffCommand(kitchenLight);
+
+            remoteC.setCommand(0, livingOn, livingOff);
+            remoteC.setCommand(1, kitchenOn, kitchenOff);
+
+            Console.WriteLine(remoteC);
+            remoteC.onButtonWasPuhed(0);
+            remoteC.offButtonWasPushed(0);
+            remoteC.onButtonWasPuhed(1);
+            remoteC.offButtonWasPushed(1);
             //PizzaStore nyPizzaStore = new NYPizzaStore();
             ////PizzaStore chicagoPizza = new ChicagoPizzaStore();
             //nyPizzaStore.orderPizza("cheese");
             ////chicagoPizza.orderPizza("clam");
 
-            SimpleRemoteControl remote = new SimpleRemoteControl();
-            Light light = new Light();
+            //SimpleRemoteControl remote = new SimpleRemoteControl();
+            //Light light = new Light("linving");
 
-            LightOnCommand lightOn = new LightOnCommand(light);
+            //LightOnCommand lightOn = new LightOnCommand(light);
 
-            remote.setCommand(lightOn);
-            remote.buttonWasPressed();
+            //remote.setCommand(lightOn);
+            //remote.buttonWasPressed();
 
-            Thread t1 = new Thread(new ThreadStart(procesoChocolate1));
-            Thread t2 = new Thread(new ThreadStart(procesoChocolate2));
-            t1.Start();
-            t2.Start();
+            //Thread t1 = new Thread(new ThreadStart(procesoChocolate1));
+            //Thread t2 = new Thread(new ThreadStart(procesoChocolate2));
+            //t1.Start();
+            //t2.Start();
 
             //Beverage beverage = new Espresso();
 

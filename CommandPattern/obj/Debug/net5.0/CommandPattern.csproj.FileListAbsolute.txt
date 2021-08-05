@@ -10,3 +10,15 @@ C:\Users\ernes\source\repos\TiendaGuitarras\CommandPattern\obj\Debug\net5.0\Comm
 C:\Users\ernes\source\repos\TiendaGuitarras\CommandPattern\obj\Debug\net5.0\CommandPattern.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\CommandPattern\obj\Debug\net5.0\ref\CommandPattern.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\CommandPattern\obj\Debug\net5.0\CommandPattern.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\bin\Debug\net5.0\CommandPattern.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\bin\Debug\net5.0\CommandPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\bin\Debug\net5.0\ref\CommandPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\bin\Debug\net5.0\CommandPattern.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\ref\CommandPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\CommandPattern\obj\Debug\net5.0\CommandPattern.pdb

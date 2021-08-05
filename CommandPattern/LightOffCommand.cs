@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace CommandPattern
 {
+    //concquete command
     public class LightOffCommand : Command
     {
         Light _light;
-
+        
         public LightOffCommand(Light light)
         {
             _light = light;
         }
-
+        
         public void execute()
         {
             _light.off();

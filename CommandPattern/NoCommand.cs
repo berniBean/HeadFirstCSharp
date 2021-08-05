@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace CommandPattern
 {
-    public  interface Command
+    public class NoCommand : Command
     {
-        //command
-        public void execute();
+        public void execute()
+        {
+           
+        }
     }
 }

@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 
 namespace CommandPattern
 {
+    //Reciver
     public class Light
     {
-        public Light()
+        private string _LightName; 
+        public Light( string name )
         {
-
+            _LightName = name;
         }
 
         public void on()
         {
-            Console.WriteLine("Light is on");
+            Console.WriteLine(_LightName + " is on");
         }
 
         public void off()
         {
-            Console.WriteLine("Light is off");
+            Console.WriteLine(_LightName +  " is off");
         }
     }
 }
