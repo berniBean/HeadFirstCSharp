@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mbsCIX6nD0JhnFf2gVRiAmiAze+bW93Df1wpG7Gvkm8M9SJ6I+jWPYlgsSj/Yw7lSxPCJinOcOPMAcaLZGctQ==",
+  "dgSpecHash": "0zJpvmvEMI0Az6Zq72du2O6P08IwFNMy8JtCzI5qQF0YB28LfnMPh7FtnRnSwqBlyOTM5R3puiji0rN6qgMVBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\ObserverNet\\ObserverNet.csproj",
+  "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\ObserverNet\\ObserverNet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

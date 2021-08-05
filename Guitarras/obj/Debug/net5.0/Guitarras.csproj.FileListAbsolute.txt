@@ -10,3 +10,15 @@ C:\Users\ernes\source\repos\TiendaGuitarras\Guitarras\obj\Debug\net5.0\Guitarras
 C:\Users\ernes\source\repos\TiendaGuitarras\Guitarras\obj\Debug\net5.0\Guitarras.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\Guitarras\obj\Debug\net5.0\ref\Guitarras.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\Guitarras\obj\Debug\net5.0\Guitarras.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\bin\Debug\net5.0\Guitarras.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\bin\Debug\net5.0\Guitarras.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\bin\Debug\net5.0\ref\Guitarras.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\bin\Debug\net5.0\Guitarras.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\ref\Guitarras.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Guitarras\obj\Debug\net5.0\Guitarras.pdb

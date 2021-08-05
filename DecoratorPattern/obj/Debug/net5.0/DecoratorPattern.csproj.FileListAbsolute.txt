@@ -10,3 +10,15 @@ C:\Users\ernes\source\repos\TiendaGuitarras\DecoratorPattern\obj\Debug\net5.0\De
 C:\Users\ernes\source\repos\TiendaGuitarras\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\bin\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb

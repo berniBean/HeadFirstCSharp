@@ -10,3 +10,15 @@ C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\bin\Debug\net5.0\Lo
 C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\ref\LocationObserver.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\LocationObserver\obj\Debug\net5.0\LocationObserver.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\bin\Debug\net5.0\LocationObserver.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\bin\Debug\net5.0\LocationObserver.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\bin\Debug\net5.0\ref\LocationObserver.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\bin\Debug\net5.0\LocationObserver.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\ref\LocationObserver.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\LocationObserver\obj\Debug\net5.0\LocationObserver.pdb

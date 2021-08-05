@@ -12,6 +12,7 @@
           "Guitarras": "1.0.0",
           "LocationObserver": "1.0.0",
           "ObserverNet": "1.0.0",
+          "SingletonPattern": "1.0.0",
           "abstractFactory": "1.0.0"
         },
         "runtime": {
@@ -41,6 +42,11 @@
       "ObserverNet/1.0.0": {
         "runtime": {
           "ObserverNet.dll": {}
+        }
+      },
+      "SingletonPattern/1.0.0": {
+        "runtime": {
+          "SingletonPattern.dll": {}
         }
       }
     }
@@ -72,6 +78,11 @@
       "sha512": ""
     },
     "ObserverNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

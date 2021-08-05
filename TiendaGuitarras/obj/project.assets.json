@@ -51,6 +51,16 @@
         "runtime": {
           "bin/placeholder/ObserverNet.dll": {}
         }
+      },
+      "SingletonPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SingletonPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonPattern.dll": {}
+        }
       }
     }
   },
@@ -79,6 +89,11 @@
       "type": "project",
       "path": "../ObserverNet/ObserverNet.csproj",
       "msbuildProject": "../ObserverNet/ObserverNet.csproj"
+    },
+    "SingletonPattern/1.0.0": {
+      "type": "project",
+      "path": "../SingletonPattern/SingletonPattern.csproj",
+      "msbuildProject": "../SingletonPattern/SingletonPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -87,32 +102,25 @@
       "Guitarras >= 1.0.0",
       "LocationObserver >= 1.0.0",
       "ObserverNet >= 1.0.0",
+      "SingletonPattern >= 1.0.0",
       "abstractFactory >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ernes\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\efloresp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\TiendaGuitarras\\TiendaGuitarras.csproj",
+      "projectUniqueName": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\TiendaGuitarras.csproj",
       "projectName": "TiendaGuitarras",
-      "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\TiendaGuitarras\\TiendaGuitarras.csproj",
-      "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\TiendaGuitarras\\obj\\",
+      "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\TiendaGuitarras.csproj",
+      "packagesPath": "C:\\Users\\efloresp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ernes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\efloresp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -125,20 +133,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj": {
-              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj"
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj"
             },
-            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\DecoratorPattern\\DecoratorPattern.csproj": {
-              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\DecoratorPattern\\DecoratorPattern.csproj"
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\DecoratorPattern\\DecoratorPattern.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\DecoratorPattern\\DecoratorPattern.csproj"
             },
-            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\Guitarras\\Guitarras.csproj": {
-              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\Guitarras\\Guitarras.csproj"
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\Guitarras\\Guitarras.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\Guitarras\\Guitarras.csproj"
             },
-            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\LocationObserver\\LocationObserver.csproj": {
-              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\LocationObserver\\LocationObserver.csproj"
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\LocationObserver\\LocationObserver.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\LocationObserver\\LocationObserver.csproj"
             },
-            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\ObserverNet\\ObserverNet.csproj": {
-              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\ObserverNet\\ObserverNet.csproj"
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\ObserverNet\\ObserverNet.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\ObserverNet\\ObserverNet.csproj"
+            },
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\SingletonPattern\\SingletonPattern.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\SingletonPattern\\SingletonPattern.csproj"
             }
           }
         }

@@ -11,6 +11,7 @@
     <ProjectReference Include="..\Guitarras\Guitarras.csproj" />
     <ProjectReference Include="..\LocationObserver\LocationObserver.csproj" />
     <ProjectReference Include="..\ObserverNet\ObserverNet.csproj" />
+    <ProjectReference Include="..\SingletonPattern\SingletonPattern.csproj" />
   </ItemGroup>
 
 </Project>

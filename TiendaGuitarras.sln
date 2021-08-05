@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{A12295C2-71CC-4B25-A210-E3DC0AEB3172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractFactory", "abstractFactory\abstractFactory.csproj", "{837DB355-3BC3-4A79-9969-3C8E85239A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractFactory", "abstractFactory\abstractFactory.csproj", "{837DB355-3BC3-4A79-9969-3C8E85239A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{5D9B4677-C5EE-4813-A80C-0A5A5A681152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{837DB355-3BC3-4A79-9969-3C8E85239A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{837DB355-3BC3-4A79-9969-3C8E85239A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{837DB355-3BC3-4A79-9969-3C8E85239A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9B4677-C5EE-4813-A80C-0A5A5A681152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9B4677-C5EE-4813-A80C-0A5A5A681152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9B4677-C5EE-4813-A80C-0A5A5A681152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9B4677-C5EE-4813-A80C-0A5A5A681152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

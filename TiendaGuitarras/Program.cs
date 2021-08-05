@@ -5,24 +5,39 @@ using DecoratorPattern.Condiments;
 
 using LocationObserver;
 using ObserverNet;
+using SingletonPattern;
 using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace TiendaGuitarras
 {
+
     class Program
     {
         
-
+        
         static void Main(string[] args)
         {
-            PizzaStore nyPizzaStore = new NYPizzaStore();
-            //PizzaStore chicagoPizza = new ChicagoPizzaStore();
-            nyPizzaStore.orderPizza("cheese");
-            //chicagoPizza.orderPizza("clam");
-             
+            //PizzaStore nyPizzaStore = new NYPizzaStore();
+            ////PizzaStore chicagoPizza = new ChicagoPizzaStore();
+            //nyPizzaStore.orderPizza("cheese");
+            ////chicagoPizza.orderPizza("clam");
+            ///
+            
+
+
 
             
+
+            
+
+
+            Thread t1 = new Thread(new ThreadStart(procesoChocolate1));
+            Thread t2 = new Thread(new ThreadStart(procesoChocolate2));
+            t1.Start();
+            t2.Start();
+
             //Beverage beverage = new Espresso();
 
             //Console.WriteLine(beverage.GetDescription() + " $" + beverage.cost());
@@ -123,6 +138,23 @@ namespace TiendaGuitarras
             //    Console.WriteLine("No hay recomendaciones");
             //}
 
+        }
+
+
+        private static void procesoChocolate1()
+        {
+            ChocolateBoiler boiler = ChocolateBoiler.GetChocolateBoiler();
+            boiler.fill();            
+            boiler.boild();
+            boiler.drain();
+        }
+
+        private static void procesoChocolate2()
+        {
+            ChocolateBoiler boiler = ChocolateBoiler.GetChocolateBoiler();
+            boiler.fill();            
+            boiler.boild();
+            boiler.drain();
         }
 
         private static void initializeInventory(Inventario inventory)

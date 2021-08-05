@@ -10,3 +10,15 @@ C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abs
 C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\ref\abstractFactory.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\abstractFactory\obj\Debug\net5.0\abstractFactory.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\bin\Debug\net5.0\abstractFactory.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\bin\Debug\net5.0\abstractFactory.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\bin\Debug\net5.0\ref\abstractFactory.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\bin\Debug\net5.0\abstractFactory.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\ref\abstractFactory.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\abstractFactory\obj\Debug\net5.0\abstractFactory.pdb
