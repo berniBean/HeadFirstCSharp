@@ -25,3 +25,5 @@ C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\Dec
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\DecoratorPattern.pdb
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\abstractFactory.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\abstractFactory.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\CommandPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\CommandPattern.pdb

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "TiendaGuitarras/1.0.0": {
         "dependencies": {
+          "CommandPattern": "1.0.0",
           "DecoratorPattern": "1.0.0",
           "Guitarras": "1.0.0",
           "LocationObserver": "1.0.0",
@@ -21,6 +22,11 @@
       "abstractFactory/1.0.0": {
         "runtime": {
           "abstractFactory.dll": {}
+        }
+      },
+      "CommandPattern/1.0.0": {
+        "runtime": {
+          "CommandPattern.dll": {}
         }
       },
       "DecoratorPattern/1.0.0": {
@@ -52,6 +58,11 @@
       "sha512": ""
     },
     "abstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

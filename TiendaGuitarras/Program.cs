@@ -1,4 +1,5 @@
 ﻿using abstractFactory;
+using CommandPattern;
 using DecoratorPattern;
 using DecoratorPattern.baseBeverage;
 using DecoratorPattern.Condiments;
@@ -16,11 +17,18 @@ namespace TiendaGuitarras
 
         static void Main(string[] args)
         {
-            PizzaStore nyPizzaStore = new NYPizzaStore();
-            //PizzaStore chicagoPizza = new ChicagoPizzaStore();
-            nyPizzaStore.orderPizza("cheese");
-            //chicagoPizza.orderPizza("clam");
-             
+            //PizzaStore nyPizzaStore = new NYPizzaStore();
+            ////PizzaStore chicagoPizza = new ChicagoPizzaStore();
+            //nyPizzaStore.orderPizza("cheese");
+            ////chicagoPizza.orderPizza("clam");
+
+            SimpleRemoteControl remote = new SimpleRemoteControl();
+            Light light = new Light();
+
+            LightOnCommand lightOn = new LightOnCommand(light);
+
+            remote.setCommand(lightOn);
+            remote.buttonWasPressed();
 
             
             //Beverage beverage = new Espresso();

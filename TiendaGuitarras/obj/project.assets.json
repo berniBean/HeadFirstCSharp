@@ -12,6 +12,16 @@
           "bin/placeholder/abstractFactory.dll": {}
         }
       },
+      "CommandPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CommandPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandPattern.dll": {}
+        }
+      },
       "DecoratorPattern/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -60,6 +70,11 @@
       "path": "../abstractFactory/abstractFactory.csproj",
       "msbuildProject": "../abstractFactory/abstractFactory.csproj"
     },
+    "CommandPattern/1.0.0": {
+      "type": "project",
+      "path": "../CommandPattern/CommandPattern.csproj",
+      "msbuildProject": "../CommandPattern/CommandPattern.csproj"
+    },
     "DecoratorPattern/1.0.0": {
       "type": "project",
       "path": "../DecoratorPattern/DecoratorPattern.csproj",
@@ -83,6 +98,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CommandPattern >= 1.0.0",
       "DecoratorPattern >= 1.0.0",
       "Guitarras >= 1.0.0",
       "LocationObserver >= 1.0.0",
@@ -127,6 +143,9 @@
           "projectReferences": {
             "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj": {
               "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj"
+            },
+            "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\CommandPattern\\CommandPattern.csproj": {
+              "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\CommandPattern\\CommandPattern.csproj"
             },
             "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\DecoratorPattern\\DecoratorPattern.csproj": {
               "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\DecoratorPattern\\DecoratorPattern.csproj"
