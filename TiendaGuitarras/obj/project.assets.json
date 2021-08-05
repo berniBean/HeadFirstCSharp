@@ -12,6 +12,16 @@
           "bin/placeholder/abstractFactory.dll": {}
         }
       },
+      "CommandPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CommandPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandPattern.dll": {}
+        }
+      },
       "DecoratorPattern/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -70,6 +80,11 @@
       "path": "../abstractFactory/abstractFactory.csproj",
       "msbuildProject": "../abstractFactory/abstractFactory.csproj"
     },
+    "CommandPattern/1.0.0": {
+      "type": "project",
+      "path": "../CommandPattern/CommandPattern.csproj",
+      "msbuildProject": "../CommandPattern/CommandPattern.csproj"
+    },
     "DecoratorPattern/1.0.0": {
       "type": "project",
       "path": "../DecoratorPattern/DecoratorPattern.csproj",
@@ -98,6 +113,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CommandPattern >= 1.0.0",
       "DecoratorPattern >= 1.0.0",
       "Guitarras >= 1.0.0",
       "LocationObserver >= 1.0.0",
@@ -135,6 +151,9 @@
           "projectReferences": {
             "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj": {
               "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj"
+            },
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\CommandPattern\\CommandPattern.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\CommandPattern\\CommandPattern.csproj"
             },
             "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\DecoratorPattern\\DecoratorPattern.csproj": {
               "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\DecoratorPattern\\DecoratorPattern.csproj"
@@ -181,5 +200,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -25,6 +25,7 @@ C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\Dec
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\DecoratorPattern.pdb
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\abstractFactory.dll
 C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\abstractFactory.pdb
+<<<<<<< HEAD
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\bin\Debug\net5.0\TiendaGuitarras.exe
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\bin\Debug\net5.0\TiendaGuitarras.deps.json
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\bin\Debug\net5.0\TiendaGuitarras.runtimeconfig.json
@@ -54,3 +55,7 @@ C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\obj\Debug\net5.0\
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\obj\Debug\net5.0\TiendaGuitarras.genruntimeconfig.cache
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\bin\Debug\net5.0\SingletonPattern.dll
 C:\Users\efloresp\source\repos\HeadFirstCSharp\TiendaGuitarras\bin\Debug\net5.0\SingletonPattern.pdb
+=======
+C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\CommandPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\TiendaGuitarras\bin\Debug\net5.0\CommandPattern.pdb
+>>>>>>> c54122c46268bd3be2925bffd7e7edce5bca062a

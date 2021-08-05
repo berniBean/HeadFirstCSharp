@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "y3bsslwlSzKhfsDl+gq16isnMLFJec+0xKW2hAJw1lZvswqL2Gx0yJG1zEYgibsU0XejdK+m+b0Yaq2LUcVIfw==",
+  "dgSpecHash": "5V2mAVCAulB+kjw+IGio7PrveKRes9doDT7Wrwh0Tt1YGFZ7KGRzBI3KsAk/CNC7czfvmA/rQKG0LjhHM4QB2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\TiendaGuitarras.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\TiendaGuitarras\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

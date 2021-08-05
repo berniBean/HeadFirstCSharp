@@ -1,4 +1,5 @@
 ﻿using abstractFactory;
+using CommandPattern;
 using DecoratorPattern;
 using DecoratorPattern.baseBeverage;
 using DecoratorPattern.Condiments;
@@ -23,15 +24,14 @@ namespace TiendaGuitarras
             ////PizzaStore chicagoPizza = new ChicagoPizzaStore();
             //nyPizzaStore.orderPizza("cheese");
             ////chicagoPizza.orderPizza("clam");
-            ///
-            
 
+            SimpleRemoteControl remote = new SimpleRemoteControl();
+            Light light = new Light();
 
+            LightOnCommand lightOn = new LightOnCommand(light);
 
-            
-
-            
-
+            remote.setCommand(lightOn);
+            remote.buttonWasPressed();
 
             Thread t1 = new Thread(new ThreadStart(procesoChocolate1));
             Thread t2 = new Thread(new ThreadStart(procesoChocolate2));
