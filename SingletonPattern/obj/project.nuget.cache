@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUDT1txmrpOYOXs4qwVrtb88zZZlisskdr2cJ9sP2cpd81oyblQ4cB6K5TADBl8YBSIttGIBgcTMVwL/dr4+fw==",
+  "dgSpecHash": "26YEEr1ODid4HH+IZNizRwLV1YaTxWISIFF3g2MevWPZMhu+k8nEZf/DHROLCYMMg49mfLjtFknsWMbv8j2hAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\SingletonPattern\\SingletonPattern.csproj",
+  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\SingletonPattern\\SingletonPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

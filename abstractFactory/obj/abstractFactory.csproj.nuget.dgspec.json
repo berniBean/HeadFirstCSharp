@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj": {}
+    "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj": {
+    "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj",
         "projectName": "abstractFactory",
-        "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj",
-        "packagesPath": "C:\\Users\\efloresp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\obj\\",
+        "projectPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj",
+        "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\efloresp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ernes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

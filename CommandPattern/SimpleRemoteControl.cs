@@ -21,7 +21,6 @@ namespace CommandPattern
             _slot = command;
             
         }
-        //invoker
         public void buttonWasPressed()
         {
 

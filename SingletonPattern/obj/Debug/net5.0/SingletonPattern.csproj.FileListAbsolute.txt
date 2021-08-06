@@ -10,3 +10,15 @@ C:\Users\efloresp\source\repos\HeadFirstCSharp\SingletonPattern\obj\Debug\net5.0
 C:\Users\efloresp\source\repos\HeadFirstCSharp\SingletonPattern\obj\Debug\net5.0\SingletonPattern.dll
 C:\Users\efloresp\source\repos\HeadFirstCSharp\SingletonPattern\obj\Debug\net5.0\ref\SingletonPattern.dll
 C:\Users\efloresp\source\repos\HeadFirstCSharp\SingletonPattern\obj\Debug\net5.0\SingletonPattern.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\bin\Debug\net5.0\SingletonPattern.deps.json
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\bin\Debug\net5.0\SingletonPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\bin\Debug\net5.0\ref\SingletonPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\bin\Debug\net5.0\SingletonPattern.pdb
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\ref\SingletonPattern.dll
+C:\Users\ernes\source\repos\TiendaGuitarras\SingletonPattern\obj\Debug\net5.0\SingletonPattern.pdb
