@@ -19,5 +19,10 @@ namespace CommandPattern
             _stereo.setCD();
             _stereo.SetVolume(5);
         }
+
+        public void undo()
+        {
+            _stereo.Off();
+        }
     }
 }

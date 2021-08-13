@@ -10,5 +10,6 @@ namespace CommandPattern
     {
         //command
         public void execute();
+        public void undo();
     }
 }

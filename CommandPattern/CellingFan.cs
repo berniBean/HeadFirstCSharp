@@ -13,6 +13,7 @@ namespace CommandPattern
         public static int HIGH = 3;
         public static int MEDIUM = 2;
         public static int LOW = 1;
+        public static int OFF = 0;
         public CellingFan(string Fan)
         {
             _Fan = Fan;
@@ -38,7 +39,7 @@ namespace CommandPattern
 
         public void off()
         {
-            lvl = 0;
+            lvl = OFF;
             Console.WriteLine(_Fan + " Ceilling fan is off");
         }
 

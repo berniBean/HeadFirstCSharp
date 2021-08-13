@@ -12,5 +12,10 @@ namespace CommandPattern
         {
            
         }
+
+        public void undo()
+        {
+            
+        }
     }
 }

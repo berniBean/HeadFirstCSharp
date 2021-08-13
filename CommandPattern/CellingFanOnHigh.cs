@@ -18,5 +18,10 @@ namespace CommandPattern
         {
             _cellingFan.high();
         }
+
+        public void undo()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

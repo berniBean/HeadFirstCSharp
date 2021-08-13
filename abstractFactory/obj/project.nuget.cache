@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pc2WVfWpnknOM6JkC1IiCylMZpU7DwGIxG16hR1oi0qzzagd6LoiVuSnO2b15ccQRE5aIkMKf9xKwFgNFU60rw==",
+  "dgSpecHash": "je0wl3CS153HcjmSjG2Qpkpg9+bFQ2oxWS14gLW9AQ33eGX0XKGq5Xz8YspY2z+eEa0wYSNNIS7r2vZ1UQ47jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\abstractFactory\\abstractFactory.csproj",
+  "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\abstractFactory\\abstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

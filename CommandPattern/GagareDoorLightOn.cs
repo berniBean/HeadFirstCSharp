@@ -17,5 +17,10 @@ namespace CommandPattern
         {
             _garageDoor.lightOn();
         }
+
+        public void undo()
+        {
+            _garageDoor.ligntOff();
+        }
     }
 }

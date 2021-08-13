@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryU4+ZqYZiFaevLXpQmS+vjvdiElyQnpuWG+oykGaVJVGZCblgtPMZKuEB2SESNiirdWFpcaYK7tTdrCh1zSzQ==",
+  "dgSpecHash": "N2bT++Rf1CB+vnOdpJe+CtBrJHl9ZYqMRr/kNt199f5wGxchxN6OeKTIEuIY7VAEWXSw4wqq1L5as4yc5QFSjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\LocationObserver\\LocationObserver.csproj",
+  "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\LocationObserver\\LocationObserver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CnC1EaA3/Z/zr7q7p7pLX2Env7XYtJ5ewGEDmu9wG5rqpvFohMBPgdG59OvLEcPCpHe/zHNMHkIZuxNfn4MTkA==",
+  "dgSpecHash": "t7uPM5MX7hB/ApL4UH+8yeePD0R8GVqMrJQDujqs53c/s1CQWJ5kRPgaw1v+/Id3D0jtv03RGJcYQppsguLe5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\TiendaGuitarras\\CommandPattern\\CommandPattern.csproj",
+  "projectFilePath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\CommandPattern\\CommandPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

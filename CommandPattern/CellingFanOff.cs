@@ -17,5 +17,10 @@ namespace CommandPattern
         {
             _cellingFan.off();
         }
+
+        public void undo()
+        {
+            _cellingFan.high();
+        }
     }
 }
