@@ -71,6 +71,16 @@
         "runtime": {
           "bin/placeholder/SingletonPattern.dll": {}
         }
+      },
+      "Template/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Template.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Template.dll": {}
+        }
       }
     }
   },
@@ -109,6 +119,11 @@
       "type": "project",
       "path": "../SingletonPattern/SingletonPattern.csproj",
       "msbuildProject": "../SingletonPattern/SingletonPattern.csproj"
+    },
+    "Template/1.0.0": {
+      "type": "project",
+      "path": "../Template/Template.csproj",
+      "msbuildProject": "../Template/Template.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -119,6 +134,7 @@
       "LocationObserver >= 1.0.0",
       "ObserverNet >= 1.0.0",
       "SingletonPattern >= 1.0.0",
+      "Template >= 1.0.0",
       "abstractFactory >= 1.0.0"
     ]
   },
@@ -169,6 +185,9 @@
             },
             "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\SingletonPattern\\SingletonPattern.csproj": {
               "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\SingletonPattern\\SingletonPattern.csproj"
+            },
+            "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\Template\\Template.csproj": {
+              "projectPath": "C:\\Users\\efloresp\\source\\repos\\HeadFirstCSharp\\Template\\Template.csproj"
             }
           }
         }

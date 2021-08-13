@@ -14,6 +14,7 @@
           "LocationObserver": "1.0.0",
           "ObserverNet": "1.0.0",
           "SingletonPattern": "1.0.0",
+          "Template": "1.0.0",
           "abstractFactory": "1.0.0"
         },
         "runtime": {
@@ -53,6 +54,11 @@
       "SingletonPattern/1.0.0": {
         "runtime": {
           "SingletonPattern.dll": {}
+        }
+      },
+      "Template/1.0.0": {
+        "runtime": {
+          "Template.dll": {}
         }
       }
     }
@@ -94,6 +100,11 @@
       "sha512": ""
     },
     "SingletonPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Template/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

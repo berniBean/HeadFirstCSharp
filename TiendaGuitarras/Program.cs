@@ -10,6 +10,7 @@ using SingletonPattern;
 using System;
 using System.Collections.Generic;
 using System.Threading;
+using Template;
 
 namespace TiendaGuitarras
 {
@@ -20,47 +21,50 @@ namespace TiendaGuitarras
         
         static void Main(string[] args)
         {
+            Tea myTea = new Tea();
 
-            RemoteControl remoteC = new RemoteControl();
-            Light livingRoomLight = new Light("Living Room");
-            //Light kitchenLight = new Light("Kitchen");
-            //GarageDoor garage = new GarageDoor("Garage");
-            //Stereo stereo = new Stereo("Living Room");
-            //CellingFan celling = new CellingFan("Living Room");
+            myTea.prepareRecipe();
+            
+            //RemoteControl remoteC = new RemoteControl();
+            //Light livingRoomLight = new Light("Living Room");
+            ////Light kitchenLight = new Light("Kitchen");
+            ////GarageDoor garage = new GarageDoor("Garage");
+            ////Stereo stereo = new Stereo("Living Room");
+            ////CellingFan celling = new CellingFan("Living Room");
 
-            LightOnCommand livingOn = new LightOnCommand(livingRoomLight);
-            LightOffCommand livingOff = new LightOffCommand(livingRoomLight);
+            //LightOnCommand livingOn = new LightOnCommand(livingRoomLight);
+            //LightOffCommand livingOff = new LightOffCommand(livingRoomLight);
 
-            //LightOnCommand kitchenOn = new LightOnCommand(kitchenLight);
-            //LightOffCommand kitchenOff = new LightOffCommand(kitchenLight);
+            ////LightOnCommand kitchenOn = new LightOnCommand(kitchenLight);
+            ////LightOffCommand kitchenOff = new LightOffCommand(kitchenLight);
 
-            //GarageDoorUp garageUp = new GarageDoorUp(garage);
-            //GarageDoorDown garageDoorDown = new GarageDoorDown(garage);
-            //GagareDoorLightOn gagareDoorLightOn = new GagareDoorLightOn(garage);
-            //GarageDoorLightOff gagareDoorLightOff = new GarageDoorLightOff(garage);
+            ////GarageDoorUp garageUp = new GarageDoorUp(garage);
+            ////GarageDoorDown garageDoorDown = new GarageDoorDown(garage);
+            ////GagareDoorLightOn gagareDoorLightOn = new GagareDoorLightOn(garage);
+            ////GarageDoorLightOff gagareDoorLightOff = new GarageDoorLightOff(garage);
 
-            //StereoWithCdCommand stereoCd = new StereoWithCdCommand(stereo);
-            //StereoOff stereoOff = new StereoOff(stereo);
+            ////StereoWithCdCommand stereoCd = new StereoWithCdCommand(stereo);
+            ////StereoOff stereoOff = new StereoOff(stereo);
 
-            //CellingFanOnHigh CeillingHigh = new CellingFanOnHigh(celling);
-            //CellingFanOff cellingFanOff = new CellingFanOff(celling);
+            ////CellingFanOnHigh CeillingHigh = new CellingFanOnHigh(celling);
+            ////CellingFanOff cellingFanOff = new CellingFanOff(celling);
 
-            remoteC.setCommand(0, () => { livingRoomLight.on(); } , () => { livingRoomLight.off(); });
-            //remoteC.setCommand(1, kitchenOn, kitchenOff);
-            //remoteC.setCommand(2, garageUp, garageDoorDown);
-            //remoteC.setCommand(3, gagareDoorLightOn, gagareDoorLightOff);
-            //remoteC.setCommand(4, stereoCd, stereoOff);
-            //remoteC.setCommand(5, CeillingHigh, cellingFanOff);
+            //remoteC.setCommand(0, () => { livingRoomLight.on(); } , () => { livingRoomLight.off(); });
+            ////remoteC.setCommand(1, kitchenOn, kitchenOff);
+            ////remoteC.setCommand(2, garageUp, garageDoorDown);
+            ////remoteC.setCommand(3, gagareDoorLightOn, gagareDoorLightOff);
+            ////remoteC.setCommand(4, stereoCd, stereoOff);
+            ////remoteC.setCommand(5, CeillingHigh, cellingFanOff);
 
             
-            remoteC.onButtonWasPuhed(0);
-            remoteC.offButtonWasPushed(0);
-            Console.WriteLine(remoteC);
-            remoteC.undoButtonWasPushed();
-            remoteC.offButtonWasPushed(0);
-            remoteC.onButtonWasPuhed(0);
-            Console.WriteLine(remoteC);
-            remoteC.undoButtonWasPushed();
+            //remoteC.onButtonWasPuhed(0);
+            //remoteC.offButtonWasPushed(0);
+            //Console.WriteLine(remoteC);
+            //remoteC.undoButtonWasPushed();
+            //remoteC.offButtonWasPushed(0);
+            //remoteC.onButtonWasPuhed(0);
+            //Console.WriteLine(remoteC);
+            //remoteC.undoButtonWasPushed();
             //remoteC.onButtonWasPuhed(1);
             //remoteC.offButtonWasPushed(1);
             //remoteC.onButtonWasPuhed(2);

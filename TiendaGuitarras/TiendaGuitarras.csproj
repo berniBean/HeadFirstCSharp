@@ -13,6 +13,7 @@
     <ProjectReference Include="..\LocationObserver\LocationObserver.csproj" />
     <ProjectReference Include="..\ObserverNet\ObserverNet.csproj" />
     <ProjectReference Include="..\SingletonPattern\SingletonPattern.csproj" />
+    <ProjectReference Include="..\Template\Template.csproj" />
   </ItemGroup>
 
 </Project>

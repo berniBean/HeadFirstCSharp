@@ -1,0 +1,12 @@
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.csprojAssemblyReference.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.AssemblyInfoInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.AssemblyInfo.cs
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\bin\Debug\net5.0\Template.deps.json
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\bin\Debug\net5.0\Template.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\bin\Debug\net5.0\ref\Template.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\bin\Debug\net5.0\Template.pdb
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\ref\Template.dll
+C:\Users\efloresp\source\repos\HeadFirstCSharp\Template\obj\Debug\net5.0\Template.pdb
